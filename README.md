@@ -23,7 +23,7 @@ title="Optional title"
 style="display: inline-block; margin: 0 auto; max-width: 300px">
 <br>
 <img
-src="assets/Screenshot from 2022-09-20 08-37-38.png"
+src="assets/Screenshot from 2022-09-20 08-38-19.png.png"
 alt="Alt text"
 title="Optional title"
 style="display: inline-block; margin: 0 auto; max-width: 300px">
