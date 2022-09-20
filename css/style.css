@@ -1,0 +1,124 @@
+.navbar{
+    background-color: #3a573266;
+    border-radius: 5px;
+
+    
+}
+.navbar ul{
+    overflow: auto;
+    justify-content: center;
+}
+.navbar li{
+    float:left;
+    list-style: none; 
+    margin: 13px 20px;
+    
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.navbar li a:hover{
+    color: red
+}
+.signout{
+    float: right;
+    color: black;
+    padding: 12px 75px;
+}
+
+.container {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+form {
+  padding: 37px;
+  width: 216px;
+  outline: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-size: 15px;
+  color: black;
+}
+
+input {
+    width: 200px;
+    border: 1px solid teal;
+    outline: none;
+    border-color: white;
+    margin-top: 5px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 6px rgba(0, 0, 0, 0.19);
+    font-size: 20px;
+    padding: 5px;
+
+}
+
+
+form div{
+  margin-top: 15px;
+}
+
+.just-validate-error-label {
+  margin-top: 1px;
+}
+
+
+
+button, .btn{
+  
+    font-size: 18px;
+    color: white;
+    background: gray;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 8px 15px;
+    margin-bottom: 20px;
+    transition: all 0.3s;
+}
+button, .btn:hover{
+    background: white;
+    color: black;
+}
+
+
+
+
+.bar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #333;
+  background: #fafafa;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.success {
+  color: #2b7515;
+  background: #ecffd6;
+  border: 1px solid #617c42;
+}
+
+
+i.ico {
+  display: inline-block;
+  width: 20px;
+  text-align: center; 
+  font-style: normal;
+  font-weight: bold;
+}
+
+.star {
+    color: red;
+}
+
