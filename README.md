@@ -12,20 +12,6 @@ A web application based on PHP and JS. The main focus is on form validation usin
 - JavaScript
 - JustValidate
 ## Screenshots
-
-<img
-src="assets/Screenshot from 2022-09-20 08-37-38.png"
-alt="Alt text"
-title="Optional title"
-style="display: inline-block; max-width: 200px">
-<br>
-<img
-src="assets/Screenshot from 2022-09-20 08-38-19.png"
-alt="Alt text"
-title="Optional title"
-style="display: inline-block; margin: 0 auto; max-width: 200px">
-<img
-src="assets/Screenshot from 2022-09-20 08-39-06.png"
-alt="Alt text"
-title="Optional title"
-style="display: inline-block; margin: 0 auto; max-width: 200px">
+<img src="assets/Screenshot from 2022-09-20 08-37-38.png" alt="drawing" style="width:400px;"/>
+<img src="assets/Screenshot from 2022-09-20 08-38-19.png" alt="drawing" style="width:400px;"/>
+<img src="assets/Screenshot from 2022-09-20 08-39-06.png" alt="drawing" style="width:400px;"/>
