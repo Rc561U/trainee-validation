@@ -1,26 +1,23 @@
-# Tic Tac Toe game on PHP and JavaScript
+# Registration and login form on PHP and JavaScript
 
 ## About
-This is a simple web application for playing tic-tac-toe.
-The client part is implemented in JavaScript and interacts with the backend using fetch requests without reloading the page.
-Additional functionality.
+A web application based on PHP and JS. The main focus is on form validation using the JustValidate library. A JSON file is used instead of a database..
 - The system of working sessions with the registration of a new user.
-- Implemented calculation of the player's level with the display of his current statistics
+- Validity check without reloading the page
 
-[Onlie demo version](http://tic-tac-toe-trainee.epizy.com/)
+[Onlie demo version](http://login-and-validate.epizy.com/)
 
 ## Technologies used
 - PHP
 - JavaScript
-- Bootstrap
-- JQuery
+- JustValidate
 ## Screenshots
 
 <img
 src="assets/Screenshot from 2022-09-20 08-37-38.png"
 alt="Alt text"
 title="Optional title"
-style="display: inline-block; margin: 0 auto; max-width: 200px">
+style="display: inline-block; max-width: 200px">
 <br>
 <img
 src="assets/Screenshot from 2022-09-20 08-38-19.png"
